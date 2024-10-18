@@ -1,5 +1,5 @@
 """This program reads data from a file and displays the number of times
-each player has won Wimbledon and the countries that have won Wimbledon"""
+each player and country has won Wimbledon """
 
 FILENAME = "wimbledon (1).csv"
 

@@ -1,4 +1,7 @@
 """
+Write a program that reads a string from the user and then produces a table of the letters of the alphabet
+in alphabetical order
+
 Word Occurrences
 Estimate: 10 minutes
 Actual:   8 minutes

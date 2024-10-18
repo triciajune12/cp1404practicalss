@@ -1,4 +1,5 @@
 """
+This program reads email addresses and names from the user and stores them in a dictionary
 Word Occurrences
 Estimate: 10 minutes
 Actual:   12 minutes

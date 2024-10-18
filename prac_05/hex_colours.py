@@ -1,3 +1,5 @@
+"""this program stores colours and their corresponding hex values in a dictionary and allows the user to enter a colour"""
+
 COLOURS_TO_CODE = {"aliceblue": "#f0f8ff", "black": "#000000", "blue1": "#0000ff", "teal": "#008080",
                      "yellow": "#ffff00", "violet": "#ee82ee", "turquoise": "#40e0d0", "tan": "#d2b48c",
                         "thistle": "#d8bfd8", "tomato": "#ff6347"}
